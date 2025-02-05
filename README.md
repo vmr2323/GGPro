@@ -1,5 +1,3 @@
-# GGPro
-GGPro is a project where I experiment with new technologies, UI solutions, and frontend development. 🚀
 # GGPro 🚀  
 **GGPro is a project where I experiment with new technologies, UI solutions, and frontend development.**  
 
@@ -23,3 +21,9 @@ This repository serves as a playground for testing modern web technologies, UI/U
    git clone https://github.com/your-username/GGPro.git
    cd GGPro
    Updated README
+npm install
+npm run dev
+💡 Future Goals
+Add more interactive projects
+Showcase animations and micro-interactions
+Implement advanced UX/UI patterns
